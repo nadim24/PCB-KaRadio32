@@ -20,6 +20,6 @@ https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
 
 ![alt text](images/vs1053.jpg "PCB-KaRadio32")
 
-**Display TFT 1.8 ST7735S**
+* **Display TFT 1.8 ST7735S**
 
 ![alt text](images/krv2v9.jpg "PCB-KaRadio32")
