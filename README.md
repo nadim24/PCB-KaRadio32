@@ -19,3 +19,7 @@ VS1053 decoder - full stuffing (mp3 and AAC stations work fine)
 MAX98357 I2S 3 W - mono amplifier - below is a video with its review (mp3 and the ability to listen to AAC stations)
 
 ![alt text](images/vs1053.jpg "PCB-KaRadio32")
+
+Display TFT 1.8 ST7735S
+
+![alt text](images/krv2v9.jpg "PCB-KaRadio32")
