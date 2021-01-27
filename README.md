@@ -17,3 +17,5 @@ DAC PCM5102 - if you need to reduce the cost and get a stereo signal (mp3 and th
 VS1053 decoder - full stuffing (mp3 and AAC stations work fine)
 
 MAX98357 I2S 3 W - mono amplifier - below is a video with its review (mp3 and the ability to listen to AAC stations)
+
+![alt text](images/vs1053.jpg "PCB-KaRadio32")
