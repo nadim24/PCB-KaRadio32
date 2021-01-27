@@ -10,3 +10,7 @@ https://nadim.top/karadio32-internet-radio
 https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
 
 ![alt text](images/pcb_kr_v5_02.jpg "PCB-KaRadio32")
+![alt text](images/pcb_kr_v5_01.jpg "PCB-KaRadio32")
+DAC PCM5102 - if you need to reduce the cost and get a stereo signal (mp3 and the ability to listen to AAC stations);
+VS1053 decoder - full stuffing (mp3 and AAC stations work fine)
+MAX98357 I2S 3 W - mono amplifier - below is a video with its review (mp3 and the ability to listen to AAC stations);
