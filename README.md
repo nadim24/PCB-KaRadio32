@@ -6,3 +6,5 @@ My blogs:
 https://nadim.top/karadio32-internet-radio
 
 https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
+
+![alt text](images/pcb_kr_v5_02.jpg "Описание будет тут")
