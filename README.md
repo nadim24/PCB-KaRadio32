@@ -10,7 +10,7 @@ https://nadim.top/karadio32-internet-radio
 https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
 
 ![alt text](images/pcb_kr_v5_02.jpg "PCB-KaRadio32")
-![alt text](images/pcb_kr_v5_01.jpg "PCB-KaRadio32")
+![alt text](images/pcb_kr_v5_03.jpg "PCB-KaRadio32")
 
 * **DAC PCM5102** - if you need to reduce the cost and get a stereo signal (mp3 and the ability to listen to AAC stations)
 
