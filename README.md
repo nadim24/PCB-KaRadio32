@@ -4,10 +4,10 @@ A universal version of the board for KaRadio32 to which you can connect a PCM510
 PCB for Internet radio project on ESP32
 https://github.com/karawin/Ka-Radio32
 
-**My blogs:**
-https://nadim.top/karadio32-internet-radio
-
-https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
+> **My blogs:**
+> https://nadim.top/karadio32-internet-radio
+>
+> https://www.youtube.com/channel/UCarcEsRznbQQ0N_8AkVWOOA
 
 ![alt text](images/pcb_kr_v5_02.jpg "PCB-KaRadio32")
 ![alt text](images/pcb_kr_v5_03.jpg "PCB-KaRadio32")
